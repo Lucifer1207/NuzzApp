@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NuzzApp/static/css/main.e6c13ad2.css",
+    "main.js": "/NuzzApp/static/js/main.23238abf.js",
+    "static/js/787.506cc8bc.chunk.js": "/NuzzApp/static/js/787.506cc8bc.chunk.js",
+    "static/media/News.jpg": "/NuzzApp/static/media/News.44fecb10e94edb2e4b8e.jpg",
+    "index.html": "/NuzzApp/index.html",
+    "main.e6c13ad2.css.map": "/NuzzApp/static/css/main.e6c13ad2.css.map",
+    "main.23238abf.js.map": "/NuzzApp/static/js/main.23238abf.js.map",
+    "787.506cc8bc.chunk.js.map": "/NuzzApp/static/js/787.506cc8bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.23238abf.js"
+  ]
+}
